@@ -35,6 +35,7 @@ def main():
     bottom_margin = 40
     
     #Če testiraš popupe, da ti ni treba čez celoten background
+    #Vsaj eden od telih naj bo vsaj 1, da ni potrebno FAILSAFE pri pyautogui izklopit
     left_margin = 470
     right_margin = 400
 
